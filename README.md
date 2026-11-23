@@ -21,7 +21,7 @@ La forma fácil es pedírselo a tu agente. Abre Claude Code o Codex en la carpet
 
 ```
 Instala las skills de este repositorio y luego usa montar-sistema conmigo.
-<pega aquí el link de este repositorio>
+https://github.com/andycruz47/claude-sabe-mi-negocio
 ```
 
 Si prefieres hacerlo a mano, copia las tres carpetas de `skills/` en
